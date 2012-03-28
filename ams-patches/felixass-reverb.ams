@@ -1,0 +1,308 @@
+Module 7 1 1241 365 0 0
+ColorP 0 0 1 23 250 200 50 180 180 180
+ColorP 1 1 1 23 250 200 50 180 180 180
+FSlider 1 0 3608 0 0 16384 1
+FSlider 1 1 16384 0 0 16384 1
+FSlider 1 2 16384 0 0 16384 1
+ComboBox 1 0 1 1
+Module 11 3 145 13 0 0
+ColorP 0 0 3 12 250 200 50 180 180 180
+FSlider 3 0 0 0 0 16384 1
+FSlider 3 1 -64235 1 -113176 0 1
+FSlider 3 2 98 0 0 16384 1
+FSlider 3 3 2312 0 0 16384 1
+FSlider 3 4 11464 0 0 16384 1
+FSlider 3 5 -64235 1 -113176 0 1
+FSlider 3 6 16384 0 1638 163840 1
+Module 2 4 638 17 0 0
+ColorP 0 0 4 3 250 200 50 180 180 180
+ColorP 2 0 4 7 250 200 50 180 180 180
+FSlider 4 0 0 0 0 163840 1
+FSlider 4 1 0 0 0 163840 1
+FSlider 4 2 19529 0 0 32768 1
+FSlider 4 3 8192 0 0 32768 1
+FSlider 4 4 8192 0 0 32768 1
+Module 1 5 340 236 0 0
+ColorP 1 1 5 12 250 200 50 180 180 180
+ColorP 4 0 5 16 250 200 50 180 180 180
+FSlider 5 0 0 0 0 16384 1
+FSlider 5 1 1638 0 0 163840 1
+FSlider 5 2 0 0 0 163840 1
+FSlider 5 3 1638 0 1638 14745 1
+FSlider 5 4 3296 0 0 163840 1
+FSlider 5 5 0 0 0 163840 1
+ISlider 5 0 0 1
+ISlider 5 1 1 1
+ISlider 5 2 1 1
+ComboBox 5 0 0 1
+Module 9 7 495 83 0 0
+ColorP 0 3 7 5 250 200 50 180 180 180
+ColorP 1 0 7 9 250 200 50 180 180 180
+ColorP 2 0 7 15 250 200 50 180 180 180
+ColorP 3 2 7 12 250 200 50 180 180 180
+FSlider 7 0 8364 0 0 163840 1
+FSlider 7 1 24899 0 10449 133827 1
+FSlider 7 2 16395 0 0 19710 1
+FSlider 7 3 0 0 0 163840 1
+FSlider 7 4 13107 0 163 16384 1
+FSlider 7 5 0 0 0 16384 1
+ComboBox 7 0 6 1
+Module 15 9 252 141 0 0
+ColorP 0 1 9 12 250 200 50 180 180 180
+FSlider 9 0 8192 0 0 163840 1
+FSlider 9 1 8192 0 0 163840 1
+Module 10 12 13 120 0 0
+FSlider 12 0 129 0 -16384 16384 1
+ISlider 12 0 24 1
+ComboBox 12 0 0 1
+FSMIDI 12 0 13 0 0
+Module 18 14 13 307 0 0
+FSlider 14 0 0 0 0 81920 1
+FSlider 14 1 25 0 -8192 8192 1
+FSlider 14 2 30013 0 0 81920 1
+FSlider 14 3 320 0 -8192 8192 1
+FSlider 14 4 0 0 0 81920 1
+FSlider 14 5 0 0 -8192 8192 1
+FSlider 14 6 0 0 0 81920 1
+FSlider 14 7 0 0 -8192 8192 1
+FSMIDI 14 0 10 0 1
+Module 15 15 181 281 0 0
+ColorP 0 0 15 14 250 200 50 180 180 180
+FSlider 15 0 986 0 0 8192 1
+FSlider 15 1 986 0 0 8192 1
+Module 15 16 182 383 0 0
+ColorP 0 1 16 14 250 200 50 180 180 180
+FSlider 16 0 989 0 0 16431 1
+FSlider 16 1 989 0 0 16431 1
+Module 2 18 798 -8 0 0
+ColorP 0 2 18 12 250 200 50 180 180 180
+ColorP 2 0 18 4 250 200 50 180 180 180
+FSlider 18 0 0 0 0 16384 1
+FSlider 18 1 0 0 0 16384 1
+FSlider 18 2 26427 0 0 32768 1
+FSlider 18 3 20840 0 0 32768 1
+FSlider 18 4 16384 0 0 32768 1
+Module 6 21 994 87 0 caps Plate
+ColorP 0 0 21 18 250 200 50 180 180 180
+FSlider 21 0 10872 0 81 16367 1
+FSlider 21 1 7804 0 0 12271 1
+FSlider 21 2 9622 0 8 16384 1
+FSlider 21 3 13060 0 0 16384 1
+Module 32 23 1042 204 4 0
+ColorP 0 0 23 18 250 200 50 180 180 180
+ColorP 1 0 23 18 250 200 50 180 180 180
+ColorP 2 0 23 21 250 200 50 180 180 180
+ColorP 3 1 23 21 250 200 50 180 180 180
+FSlider 23 0 0 1 -150902 37725 1
+FSlider 23 1 -7973 1 -150902 11356 1
+FSlider 23 2 0 0 -16384 16384 1
+FSlider 23 3 -5938 1 -150902 11356 1
+FSlider 23 4 0 0 -16384 16384 1
+FSlider 23 5 -19671 1 -150902 11356 1
+FSlider 23 6 -16384 0 -16384 16384 1
+FSlider 23 7 -18145 1 -150902 11356 1
+FSlider 23 8 16384 0 -16384 16384 1
+CheckBox 23 0 0 1
+CheckBox 23 1 0 1
+CheckBox 23 2 0 1
+CheckBox 23 3 0 1
+CheckBox 23 4 0 1
+CheckBox 23 5 0 1
+CheckBox 23 6 0 1
+CheckBox 23 7 0 1
+Comment 0 0 928 422 200 170
+#PARA# 0 0 0
+The CVS module provides constant control voltages.  
+#ARAP#
+#PARA# 0 0 1
+Slew limiters are used to create smooth parameter changes.  
+#ARAP#
+#PARA# 0 0 2
+ 
+#ARAP#
+#PARA# 0 0 3
+ 
+#ARAP#
+#PARA# 0 0 4
+ 
+#ARAP#
+#PARA# 0 0 5
+ 
+#ARAP#
+#PARA# 0 0 6
+ 
+#ARAP#
+#PARA# 0 0 7
+ 
+#ARAP#
+#PARA# 0 0 8
+ 
+#ARAP#
+#PARA# 0 0 9
+ 
+#ARAP#
+#PARA# 0 0 10
+ 
+#ARAP#
+#PARA# 0 0 11
+ 
+#ARAP#
+#PARA# 0 0 12
+ 
+#ARAP#
+#PARA# 0 0 13
+ 
+#ARAP#
+#PARA# 0 0 14
+ 
+#ARAP#
+#PARA# 0 0 15
+ 
+#ARAP#
+#PARA# 0 0 16
+ 
+#ARAP#
+#PARA# 0 0 17
+ 
+#ARAP#
+#PARA# 0 0 18
+ 
+#ARAP#
+#PARA# 0 0 19
+ 
+#ARAP#
+#PARA# 0 0 20
+ 
+#ARAP#
+#PARA# 0 0 21
+ 
+#ARAP#
+#PARA# 0 0 22
+ 
+#ARAP#
+#PARA# 0 0 23
+ 
+#ARAP#
+#PARA# 0 0 24
+ 
+#ARAP#
+#PARA# 0 0 25
+ 
+#ARAP#
+#PARA# 0 0 26
+ 
+#ARAP#
+#PARA# 0 0 27
+ 
+#ARAP#
+#PARA# 0 0 28
+ 
+#ARAP#
+#PARA# 0 0 29
+ 
+#ARAP#
+#PARA# 0 0 30
+ 
+#ARAP#
+#PARA# 0 0 31
+ 
+#ARAP#
+#PARA# 0 0 32
+ 
+#ARAP#
+#PARA# 0 0 33
+ 
+#ARAP#
+#PARA# 0 0 34
+ 
+#ARAP#
+#PARA# 0 0 35
+ 
+#ARAP#
+#PARA# 0 0 36
+ 
+#ARAP#
+#PARA# 0 0 37
+ 
+#ARAP#
+#PARA# 0 0 38
+ 
+#ARAP#
+#PARA# 0 0 39
+ 
+#ARAP#
+#PARA# 0 0 40
+ 
+#ARAP#
+#PARA# 0 0 41
+ 
+#ARAP#
+#PARA# 0 0 42
+ 
+#ARAP#
+#PARA# 0 0 43
+ 
+#ARAP#
+#PARA# 0 0 44
+ 
+#ARAP#
+#PARA# 0 0 45
+ 
+#ARAP#
+#PARA# 0 0 46
+ 
+#ARAP#
+#PARA# 0 0 47
+ 
+#ARAP#
+#PARA# 0 0 48
+ 
+#ARAP#
+#PARA# 0 0 49
+ 
+#ARAP#
+#PARA# 0 0 50
+ 
+#ARAP#
+#PARA# 0 0 51
+ 
+#ARAP#
+#PARA# 0 0 52
+ 
+#ARAP#
+#PARA# 0 0 53
+ 
+#ARAP#
+#PARA# 0 0 54
+ 
+#ARAP#
+#PARA# 0 0 55
+ 
+#ARAP#
+#PARA# 0 0 56
+ 
+#ARAP#
+#PARA# 0 0 57
+ 
+#ARAP#
+#PARA# 0 0 58
+ 
+#ARAP#
+#PARA# 0 0 59
+ 
+#ARAP#
+#PARA# 0 0 60
+ 
+#ARAP#
+#PARA# 0 0 61
+ 
+#ARAP#
+#PARA# 0 0 62
+ 
+#ARAP#
+#PARA# 0 0 63
+ 
+#ARAP#
+#PARA# 0 0 64
+ 
+#ARAP#

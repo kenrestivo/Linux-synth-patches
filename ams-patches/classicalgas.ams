@@ -1,0 +1,248 @@
+Module 7 1 630 36 0 0
+ColorP 0 0 1 4 250 200 50 180 180 180
+ColorP 1 0 1 4 250 200 50 180 180 180
+FSlider 1 0 11642 0 0 16384 1
+FSlider 1 1 16384 0 0 16384 1
+FSlider 1 2 16384 0 0 16384 1
+ComboBox 1 0 1 1
+Module 11 3 188 8 0 0
+ColorP 0 0 3 9 250 200 50 180 180 180
+FSlider 3 0 0 0 0 16384 1
+FSlider 3 1 -72732 1 -113176 0 1
+FSlider 3 2 98 0 0 16384 1
+FSlider 3 3 12448 0 0 16384 1
+FSlider 3 4 4969 0 0 16384 1
+FSlider 3 5 7380 0 0 16384 1
+FSlider 3 6 16384 0 1638 163840 1
+Module 2 4 507 9 0 0
+ColorP 0 0 4 3 250 200 50 180 180 180
+ColorP 2 0 4 7 250 200 50 180 180 180
+FSlider 4 0 0 0 0 163840 1
+FSlider 4 1 0 0 0 163840 1
+FSlider 4 2 19529 0 0 32768 1
+FSlider 4 3 8192 0 0 32768 1
+FSlider 4 4 8192 0 0 32768 1
+Module 1 5 184 199 0 0
+ColorP 1 1 5 9 250 200 50 180 180 180
+FSlider 5 0 0 0 0 16384 1
+FSlider 5 1 1638 0 0 163840 1
+FSlider 5 2 0 0 0 163840 1
+FSlider 5 3 8192 0 1638 14745 1
+FSlider 5 4 0 0 0 163840 1
+FSlider 5 5 0 0 0 163840 1
+ISlider 5 0 0 1
+ISlider 5 1 1 1
+ISlider 5 2 1 1
+ComboBox 5 0 0 1
+Module 9 7 355 106 0 0
+ColorP 0 2 7 5 250 200 50 180 180 180
+ColorP 1 1 7 9 250 200 50 180 180 180
+FSlider 7 0 21157 0 0 163840 1
+FSlider 7 1 78452 0 10449 133827 1
+FSlider 7 2 0 0 0 163840 1
+FSlider 7 3 0 0 0 163840 1
+FSlider 7 4 13107 0 163 16384 1
+FSlider 7 5 0 0 0 16384 1
+ComboBox 7 0 6 1
+FSMIDI 7 1 10 0 1
+Module 10 9 22 81 0 0
+FSlider 9 0 129 0 -16384 16384 1
+ISlider 9 0 24 1
+ComboBox 9 0 0 1
+FSMIDI 9 0 13 0 0
+Comment 0 0 309 300 414 187
+#PARA# 0 0 0
+In this patch a VCF filter module has been added to the basic patch. The cutoff frequency of the filter is shifted according to the frequency voltage supplied by the MCV ("VCF tracking").  
+#ARAP#
+#PARA# 0 0 1
+ 
+#ARAP#
+#PARA# 0 0 2
+The pitchbender is connected to the "Pitch" parameter of the MCV. The modulation wheel has been bound to the "Frequency" parameter of the VCF.  
+#ARAP#
+#PARA# 0 0 3
+ 
+#ARAP#
+#PARA# 0 0 4
+ 
+#ARAP#
+#PARA# 0 0 5
+ 
+#ARAP#
+#PARA# 0 0 6
+ 
+#ARAP#
+#PARA# 0 0 7
+ 
+#ARAP#
+#PARA# 0 0 8
+ 
+#ARAP#
+#PARA# 0 0 9
+ 
+#ARAP#
+#PARA# 0 0 10
+ 
+#ARAP#
+#PARA# 0 0 11
+ 
+#ARAP#
+#PARA# 0 0 12
+ 
+#ARAP#
+#PARA# 0 0 13
+ 
+#ARAP#
+#PARA# 0 0 14
+ 
+#ARAP#
+#PARA# 0 0 15
+ 
+#ARAP#
+#PARA# 0 0 16
+ 
+#ARAP#
+#PARA# 0 0 17
+ 
+#ARAP#
+#PARA# 0 0 18
+ 
+#ARAP#
+#PARA# 0 0 19
+ 
+#ARAP#
+#PARA# 0 0 20
+ 
+#ARAP#
+#PARA# 0 0 21
+ 
+#ARAP#
+#PARA# 0 0 22
+ 
+#ARAP#
+#PARA# 0 0 23
+ 
+#ARAP#
+#PARA# 0 0 24
+ 
+#ARAP#
+#PARA# 0 0 25
+ 
+#ARAP#
+#PARA# 0 0 26
+ 
+#ARAP#
+#PARA# 0 0 27
+ 
+#ARAP#
+#PARA# 0 0 28
+ 
+#ARAP#
+#PARA# 0 0 29
+ 
+#ARAP#
+#PARA# 0 0 30
+ 
+#ARAP#
+#PARA# 0 0 31
+ 
+#ARAP#
+#PARA# 0 0 32
+ 
+#ARAP#
+#PARA# 0 0 33
+ 
+#ARAP#
+#PARA# 0 0 34
+ 
+#ARAP#
+#PARA# 0 0 35
+ 
+#ARAP#
+#PARA# 0 0 36
+ 
+#ARAP#
+#PARA# 0 0 37
+ 
+#ARAP#
+#PARA# 0 0 38
+ 
+#ARAP#
+#PARA# 0 0 39
+ 
+#ARAP#
+#PARA# 0 0 40
+ 
+#ARAP#
+#PARA# 0 0 41
+ 
+#ARAP#
+#PARA# 0 0 42
+ 
+#ARAP#
+#PARA# 0 0 43
+ 
+#ARAP#
+#PARA# 0 0 44
+ 
+#ARAP#
+#PARA# 0 0 45
+ 
+#ARAP#
+#PARA# 0 0 46
+ 
+#ARAP#
+#PARA# 0 0 47
+ 
+#ARAP#
+#PARA# 0 0 48
+ 
+#ARAP#
+#PARA# 0 0 49
+ 
+#ARAP#
+#PARA# 0 0 50
+ 
+#ARAP#
+#PARA# 0 0 51
+ 
+#ARAP#
+#PARA# 0 0 52
+ 
+#ARAP#
+#PARA# 0 0 53
+ 
+#ARAP#
+#PARA# 0 0 54
+ 
+#ARAP#
+#PARA# 0 0 55
+ 
+#ARAP#
+#PARA# 0 0 56
+ 
+#ARAP#
+#PARA# 0 0 57
+ 
+#ARAP#
+#PARA# 0 0 58
+ 
+#ARAP#
+#PARA# 0 0 59
+ 
+#ARAP#
+#PARA# 0 0 60
+ 
+#ARAP#
+#PARA# 0 0 61
+ 
+#ARAP#
+#PARA# 0 0 62
+ 
+#ARAP#
+#PARA# 0 0 63
+ 
+#ARAP#
+#PARA# 0 0 64
+ 
+#ARAP#

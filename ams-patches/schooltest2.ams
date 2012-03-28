@@ -1,0 +1,89 @@
+Module 10 1 117 119 0 0
+FSlider 1 0 0 0 -16384 16384 1
+ISlider 1 0 0 1
+ComboBox 1 0 0 1
+Module 1 2 373 192 0 0
+ColorP 1 1 2 1 250 200 50 180 180 180
+FSlider 2 0 0 0 0 16384 1
+FSlider 2 1 5146 0 1638 14745 1
+FSlider 2 2 0 0 0 16384 1
+FSlider 2 3 0 0 0 102940 1
+FSlider 2 4 0 0 0 163840 1
+FSlider 2 5 0 0 0 163840 1
+ISlider 2 0 3 1
+ISlider 2 1 1 1
+ISlider 2 2 1 1
+ComboBox 2 0 0 1
+FSMIDI 2 1 10 0 1
+Module 7 3 1189 303 0 0
+ColorP 0 0 3 6 250 200 50 180 180 180
+ColorP 1 0 3 6 250 200 50 180 180 180
+FSlider 3 0 8192 0 0 16384 1
+FSlider 3 1 8192 0 0 16384 1
+FSlider 3 2 8192 0 0 16384 1
+ComboBox 3 0 0 1
+Module 8 5 598 265 4 0
+ColorP 0 0 5 2 250 200 50 180 180 180
+ColorP 1 1 5 2 250 200 50 180 180 180
+ColorP 2 2 5 2 250 200 50 180 180 180
+ColorP 3 3 5 2 250 200 50 180 180 180
+FSlider 5 0 16384 0 0 32768 1
+FSlider 5 1 0 0 0 32768 1
+FSlider 5 2 0 0 0 32768 1
+FSlider 5 3 0 0 0 32768 1
+FSlider 5 4 32768 0 0 32768 1
+Module 2 6 756 361 0 0
+ColorP 0 0 6 7 250 200 50 180 180 180
+ColorP 2 0 6 5 250 200 50 180 180 180
+FSlider 6 0 0 0 0 16384 1
+FSlider 6 1 0 0 0 16384 1
+FSlider 6 2 16384 0 0 32768 1
+FSlider 6 3 16384 0 0 32768 1
+FSlider 6 4 16384 0 0 32768 1
+Module 11 7 627 76 0 0
+ColorP 0 0 7 1 250 200 50 180 180 180
+FSlider 7 0 0 0 0 16384 1
+FSlider 7 1 177 0 0 16384 1
+FSlider 7 2 327 0 0 16384 1
+FSlider 7 3 993 0 0 16384 1
+FSlider 7 4 14493 0 0 16384 1
+FSlider 7 5 177 0 0 16384 1
+FSlider 7 6 16384 0 1638 163840 1
+Module 24 8 980 596 0 0
+ColorP 0 0 8 9 250 200 50 180 180 180
+ColorP 1 1 8 9 250 200 50 180 180 180
+FSlider 8 0 727380 0 163840 16384000 1
+FSlider 8 1 17074 0 1638 163840 1
+FSlider 8 2 0 0 -16384 16384 1
+ComboBox 8 0 1 1
+ComboBox 8 1 0 1
+Module 17 9 375 590 0 0
+FSlider 9 0 8192 0 0 16384 1
+FSlider 9 1 8192 0 0 16384 1
+FSlider 9 2 8192 0 0 16384 1
+Tab "blah"
+Frame "sine vol" 0
+Parameter "sine vol" 5 1 0 32768 0
+Parameter "triangle vol" 5 2 0 32768 0
+Parameter "saw vol" 5 3 0 32768 0
+Parameter "rectangle vol" 5 4 0 32768 0
+Program 0 32768
+Program 0 0
+Program 0 0
+Program 0 0
+Program 1 0
+Program 1 32768
+Program 1 0
+Program 1 0
+Program 2 0
+Program 2 0
+Program 2 32768
+Program 2 0
+Program 3 0
+Program 3 0
+Program 3 0
+Program 3 32768
+PresetName " sine wav"
+PresetName "triangle"
+PresetName "saw"
+PresetName "rectangle"

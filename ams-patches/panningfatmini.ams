@@ -1,0 +1,228 @@
+Module 35 1 22 174 0 0
+FSlider 1 0 0 0 -16384 16384 1
+ISlider 1 0 36 1
+ISlider 1 1 0 1
+ISlider 1 2 0 1
+ISlider 1 3 0 1
+ISlider 1 4 0 1
+Module 38 2 295 20 0 0
+ColorP 0 0 2 1 250 200 50 180 180 180
+ColorP 1 3 2 1 250 200 50 180 180 180
+ColorP 2 2 2 1 250 200 50 180 180 180
+ColorP 3 2 2 1 250 200 50 180 180 180
+ColorP 4 2 2 1 250 200 50 180 180 180
+ColorP 5 2 2 1 250 200 50 180 180 180
+FSlider 2 0 652 0 -131072 131072 1
+FSlider 2 1 9781 0 -131072 131072 1
+FSlider 2 2 0 0 0 16384 1
+FSlider 2 3 2509 0 -131072 131072 1
+FSlider 2 4 -67166 0 -131072 131072 1
+FSlider 2 5 -59341 0 -131072 131072 1
+FSlider 2 6 16384 0 0 16384 1
+FSlider 2 7 43691 0 -131072 131072 1
+Module 38 3 308 306 0 0
+ColorP 0 0 3 1 250 200 50 180 180 180
+ColorP 1 3 3 1 250 200 50 180 180 180
+ColorP 2 2 3 1 250 200 50 180 180 180
+ColorP 3 2 3 1 250 200 50 180 180 180
+ColorP 4 2 3 1 250 200 50 180 180 180
+ColorP 5 2 3 1 250 200 50 180 180 180
+FSlider 3 0 -652 0 -131072 131072 1
+FSlider 3 1 9781 0 -131072 131072 1
+FSlider 3 2 11738 0 0 16384 1
+FSlider 3 3 2635 0 -131072 131072 1
+FSlider 3 4 -74991 0 -131072 131072 1
+FSlider 3 5 -60645 0 -131072 131072 1
+FSlider 3 6 16384 0 0 16384 1
+FSlider 3 7 44995 0 -131072 131072 1
+Module 6 8 449 19 2 blvco Saw-VCO
+ColorP 0 1 8 1 250 200 50 180 180 180
+ColorP 1 0 8 25 250 200 50 180 180 180
+FSlider 8 0 26 0 0 545 1
+FSlider 8 1 16480 0 0 65536 1
+FSlider 8 2 0 0 0 65536 1
+FSlider 8 3 8233 0 0 16384 1
+LSlider 8 0 -3 1
+Module 6 9 449 158 2 blvco Saw-VCO
+ColorP 0 1 9 1 250 200 50 180 180 180
+ColorP 1 0 9 25 250 200 50 180 180 180
+FSlider 9 0 81 0 0 545 1
+FSlider 9 1 16480 0 0 65536 1
+FSlider 9 2 0 0 0 65536 1
+FSlider 9 3 8233 0 0 16384 1
+LSlider 9 0 -1 1
+Module 6 10 448 297 2 blvco Saw-VCO
+ColorP 0 1 10 1 250 200 50 180 180 180
+ColorP 1 0 10 25 250 200 50 180 180 180
+FSlider 10 0 0 0 0 545 1
+FSlider 10 1 16480 0 0 65536 1
+FSlider 10 2 0 0 0 65536 1
+FSlider 10 3 8233 0 0 16384 1
+LSlider 10 0 -4 1
+Module 2 12 818 492 0 0
+ColorP 0 0 12 3 250 200 50 180 180 180
+ColorP 1 0 12 30 250 200 50 180 180 180
+ColorP 2 0 12 23 250 200 50 180 180 180
+FSlider 12 0 0 0 0 163840 1
+FSlider 12 1 0 0 0 16384 1
+FSlider 12 2 16384 0 0 32768 1
+FSlider 12 3 16384 0 0 32768 1
+FSlider 12 4 16384 0 0 32768 1
+Module 8 13 386 613 4 0
+ColorP 0 0 13 2 250 200 50 180 180 180
+ColorP 1 0 13 8 250 200 50 180 180 180
+ColorP 2 0 13 34 250 200 50 180 180 180
+ColorP 3 1 13 26 250 200 50 180 180 180
+FSlider 13 0 16384 0 0 32768 1
+FSlider 13 1 12229 0 0 32768 1
+FSlider 13 2 0 0 0 32768 1
+FSlider 13 3 0 0 0 32768 1
+FSlider 13 4 133 0 0 32768 1
+Module 8 14 773 123 4 0
+ColorP 0 0 14 8 250 200 50 180 180 180
+ColorP 1 0 14 9 250 200 50 180 180 180
+ColorP 2 0 14 10 250 200 50 180 180 180
+ColorP 3 1 14 32 250 200 50 180 180 180
+FSlider 14 0 16384 0 0 32768 1
+FSlider 14 1 32768 0 0 32768 1
+FSlider 14 2 32768 0 0 32768 1
+FSlider 14 3 32768 0 0 32768 1
+FSlider 14 4 0 0 0 32768 1
+Module 7 20 1145 645 0 0
+ColorP 0 0 20 21 250 200 50 180 180 180
+ColorP 1 1 20 21 250 200 50 180 180 180
+FSlider 20 0 1806 0 0 16384 1
+FSlider 20 1 8192 0 0 16384 1
+FSlider 20 2 8192 0 0 16384 1
+ComboBox 20 0 0 1
+FSMIDI 20 0 10 0 7
+Module 6 21 850 377 0 g2reverb G2reverb
+ColorP 0 0 21 12 250 200 50 180 180 180
+ColorP 1 0 21 12 250 200 50 180 180 180
+FSlider 21 0 793290 0 163840 2457600 1
+FSlider 21 1 29415 0 16384 327680 1
+FSlider 21 2 5563 0 0 16384 1
+FSlider 21 3 2012 0 0 16384 1
+FSlider 21 4 0 0 -1310720 0 1
+FSlider 21 5 -585252 0 -1310720 0 1
+FSlider 21 6 -469421 0 -1310720 0 1
+Module 6 23 878 167 2 mvclpf24 Mvclpf-3
+ColorP 0 0 23 14 250 200 50 180 180 180
+ColorP 1 1 23 1 250 200 50 180 180 180
+ColorP 2 0 23 13 250 200 50 180 180 180
+ColorP 3 0 23 28 250 200 50 180 180 180
+FSlider 23 0 -12999 0 -172155 163840 1
+FSlider 23 1 -13546 0 -81920 81920 1
+FSlider 23 2 115934 0 0 163840 1
+FSlider 23 3 3096 0 0 16384 1
+FSlider 23 4 9159 0 0 16384 1
+FSlider 23 5 -15287 0 -245760 245760 1
+FSMIDI 23 1 10 0 10
+FSMIDI 23 3 10 0 2
+Module 8 25 204 697 2 0
+ColorP 0 5 25 1 250 200 50 180 180 180
+ColorP 1 1 25 26 250 200 50 180 180 180
+FSlider 25 0 16384 0 0 32768 1
+FSlider 25 1 16384 0 0 32768 1
+FSlider 25 2 34 0 0 3283 1
+Module 3 26 29 472 0 0
+FSlider 26 0 29628 1 -75451 75451 1
+FSlider 26 1 0 0 0 102940 1
+Module 8 28 540 501 2 0
+ColorP 0 0 28 2 250 200 50 180 180 180
+ColorP 1 1 28 26 250 200 50 180 180 180
+FSlider 28 0 16384 0 0 32768 1
+FSlider 28 1 0 0 0 32768 1
+FSlider 28 2 0 0 0 16384 1
+Module 5 30 611 642 0 0
+ColorP 0 1 30 26 250 200 50 180 180 180
+ColorP 1 0 30 3 250 200 50 180 180 180
+FSlider 30 0 8192 0 0 81920 1
+Module 14 32 715 372 0 0
+FSlider 32 0 81920 0 0 163840 1
+FSlider 32 1 8192 0 0 16384 1
+Module 13 34 243 553 0 0
+ColorP 0 0 34 2 250 200 50 180 180 180
+Tab "Oscillators / LFO / Mixer"
+Tab "Filter / Envelopes / Reverb"
+Frame "Oscillators" 0
+Parameter "VCO 1 Octave" 10 0 
+Parameter "VCO 1 Tune" 10 1 0 545 0
+Parameter "VCO 2 Octave" 8 0 
+Parameter "VCO 2 Tune" 8 1 0 545 0
+Parameter "VCO 3 Octave" 9 0 
+Parameter "VCO 3 Tune" 9 1 0 545 0
+Frame "LFO" 0
+Parameter "Frequency" 26 0 -75451 75448 1
+Parameter "Pitch Modulation" 25 2 0 3277 0
+Parameter "Filter Modulation" 13 4 0 32768 0
+Parameter "Resonance Modulation" 28 2 0 16384 0
+Parameter "Amplitude Modulation" 12 1 0 16384 0
+Frame "Mixer" 0
+Parameter "VCO 1 Level" 14 1 0 32768 0
+Parameter "VCO 2 Level" 14 2 0 32768 0
+Parameter "VCO 3 Level" 14 3 0 32768 0
+Parameter "Noise" 14 4 0 32768 0
+Frame "Filter" 1
+Parameter "Cutoff Frequency" 23 1 -81920 81920 0
+Parameter "Resonance" 23 3 0 16384 0
+Parameter "Input gain (dB)" 23 0 -172155 163840 0
+Parameter "Output gain (dB)" 23 5 -245760 245760 0
+Parameter "VCO 1 to Filter Cutoff" 13 2 0 32768 0
+Frame "Filter Envelope" 1
+Parameter "Attack" 2 0 -131072 131072 0
+Parameter "Decay" 2 1 -131072 131072 0
+Parameter "Sustain" 2 2 0 16384 0
+Parameter "Release" 2 3 -131072 131072 0
+Parameter "Envelope to Filter Cutoff" 13 1 0 32768 0
+Parameter "Inverse Envelope to Filter Cutoff" 13 3 0 32768 0
+Parameter "Envelope to Resonance" 28 1 0 16384 0
+Frame "Volume Envelope" 1
+Parameter "Attack" 3 0 -131072 131072 0
+Parameter "Decay" 3 1 -131072 131072 0
+Parameter "Sustain" 3 2 0 16384 0
+Parameter "Release" 3 3 -131072 131072 0
+Frame "Reverb" 1
+Parameter "Early Reflections" 21 5 -1310720 0 0
+Parameter "Reverb Tail" 21 6 -1310720 0 0
+Parameter "Reverb Time" 21 1 16384 327680 0
+Parameter "Room Size" 21 0 163840 2457600 0
+Parameter "Input Bandwidth" 21 2 0 16384 0
+Parameter "Damping" 21 3 0 16384 0
+Program 0 -4
+Program 0 0
+Program 0 -3
+Program 0 26
+Program 0 -1
+Program 0 81
+Program 0 29628
+Program 0 34
+Program 0 133
+Program 0 0
+Program 0 0
+Program 0 32768
+Program 0 32768
+Program 0 32768
+Program 0 0
+Program 0 -30181
+Program 0 0
+Program 0 -12999
+Program 0 -15287
+Program 0 0
+Program 0 652
+Program 0 9781
+Program 0 0
+Program 0 2509
+Program 0 12229
+Program 0 0
+Program 0 0
+Program 0 -652
+Program 0 9781
+Program 0 11738
+Program 0 2635
+Program 0 -585252
+Program 0 -469421
+Program 0 29415
+Program 0 793290
+Program 0 5563
+Program 0 2012

@@ -1,0 +1,606 @@
+Module 7 1 1099 302 0 0
+ColorP 0 0 1 10 250 200 50 180 180 180
+ColorP 1 1 1 10 250 200 50 180 180 180
+FSlider 1 0 13849 0 0 16384 1
+FSlider 1 1 16384 0 0 16384 1
+FSlider 1 2 16384 0 0 16384 1
+ComboBox 1 0 1 1
+Module 11 3 508 11 0 0
+ColorP 0 0 3 12 250 200 50 180 180 180
+FSlider 3 0 0 0 0 16384 1
+FSlider 3 1 -112301 1 -113176 0 1
+FSlider 3 2 98 0 0 16384 1
+FSlider 3 3 2312 0 0 16384 1
+FSlider 3 4 11464 0 0 16384 1
+FSlider 3 5 -108240 1 -113175 0 1
+FSlider 3 6 16384 0 1638 163840 1
+Module 2 4 680 139 0 0
+ColorP 0 0 4 3 250 200 50 180 180 180
+ColorP 2 0 4 32 250 200 50 180 180 180
+ColorP 3 0 4 33 250 200 50 180 180 180
+FSlider 4 0 0 0 0 163840 1
+FSlider 4 1 0 0 0 163840 1
+FSlider 4 2 19529 0 0 32768 1
+FSlider 4 3 8192 0 0 32768 1
+FSlider 4 4 3710 0 1792 9909 0
+FSMIDI 4 4 10 0 7
+Module 1 5 359 88 0 0
+ColorP 1 0 5 31 250 200 50 180 180 180
+ColorP 2 0 5 19 250 200 50 180 180 180
+FSlider 5 0 0 0 0 334 1
+FSlider 5 1 1638 0 0 163840 1
+FSlider 5 2 0 0 0 163840 1
+FSlider 5 3 8192 0 1638 14745 1
+FSlider 5 4 22 0 0 578 1
+FSlider 5 5 0 0 0 163840 1
+ISlider 5 0 1 1
+ISlider 5 1 1 1
+ISlider 5 2 1 1
+ComboBox 5 0 1 1
+FSMIDI 5 4 10 0 1
+Module 6 10 677 301 0 cmt freeverb3
+ColorP 0 0 10 46 250 200 50 180 180 180
+ColorP 1 0 10 46 250 200 50 180 180 180
+FSlider 10 0 15276 0 0 16384 1
+FSlider 10 1 -81259 1 -113176 0 1
+FSlider 10 2 -23775 1 -113175 0 1
+FSlider 10 3 -19460 1 -113176 0 1
+FSlider 10 4 16007 0 0 16384 1
+CheckBox 10 0 0 1
+FSMIDI 10 2 10 0 7
+Module 10 12 9 8 0 0
+FSlider 12 0 14 0 -2743 2729 1
+ISlider 12 0 24 1
+ComboBox 12 0 0 1
+FSMIDI 12 0 13 0 0
+Module 3 19 145 277 0 0
+FSlider 19 0 179722 0 0 1638400 1
+FSlider 19 1 0 0 0 102940 1
+Module 1 28 359 318 0 0
+ColorP 1 0 28 30 250 200 50 180 180 180
+ColorP 2 0 28 19 250 200 50 180 180 180
+FSlider 28 0 38 0 0 612 1
+FSlider 28 1 8192 0 1638 14745 1
+FSlider 28 2 0 0 0 16384 1
+FSlider 28 3 0 0 0 102940 1
+FSlider 28 4 22 0 0 578 1
+FSlider 28 5 163840 0 0 163840 1
+ISlider 28 0 1 1
+ISlider 28 1 1 1
+ISlider 28 2 1 1
+ComboBox 28 0 0 1
+FSMIDI 28 0 10 0 4
+FSMIDI 28 4 10 0 1
+Module 15 30 145 182 0 0
+ColorP 0 1 30 12 250 200 50 180 180 180
+FSlider 30 0 3274 0 0 3274 1
+FSlider 30 1 3274 0 0 3274 1
+FSMIDI 30 0 10 0 6
+FSMIDI 30 1 10 0 6
+Module 15 31 145 88 0 0
+ColorP 0 1 31 12 250 200 50 180 180 180
+FSlider 31 0 3274 0 0 3274 1
+FSlider 31 1 3279 0 0 3279 1
+FSMIDI 31 0 10 0 6
+FSMIDI 31 1 10 0 6
+Module 8 32 509 164 2 0
+ColorP 0 0 32 5 250 200 50 180 180 180
+ColorP 1 1 32 5 250 200 50 180 180 180
+FSlider 32 0 16384 0 0 32768 1
+FSlider 32 1 7225 0 0 16384 0
+FSlider 32 2 9159 0 0 16383 1
+FSMIDI 32 1 10 0 5
+FSMIDI 32 2 10 0 5
+Module 8 33 506 393 2 0
+ColorP 0 0 33 28 250 200 50 180 180 180
+ColorP 1 1 33 28 250 200 50 180 180 180
+FSlider 33 0 16384 0 0 32768 1
+FSlider 33 1 7225 0 0 16384 0
+FSlider 33 2 9155 0 0 16376 1
+FSMIDI 33 1 10 0 5
+FSMIDI 33 2 10 0 5
+Module 6 46 801 212 0 valve_1209 valve
+ColorP 0 0 46 4 250 200 50 180 180 180
+FSlider 46 0 13649 0 0 16384 1
+FSlider 46 1 12577 0 0 16384 1
+FSMIDI 46 0 10 0 2
+FSMIDI 46 1 10 0 3
+Comment 0 0 666 422 327 239
+#PARA# 0 0 0
+This patch has been contributed by Christoph Eckert.  
+#ARAP#
+#PARA# 0 0 1
+ 
+#ARAP#
+#PARA# 0 0 2
+In addition to Pitchbender and ModWheel, the following MIDI bindings exist:  
+#ARAP#
+#PARA# 0 0 3
+CC02 and CC03 Valve Saturation  
+#ARAP#
+#PARA# 0 0 4
+CC04 Detune  
+#ARAP#
+#PARA# 0 0 5
+CC05 Crossfade between Sine Triangle  
+#ARAP#
+#PARA# 0 0 6
+CC06 Glide on/off (switch)  
+#ARAP#
+#PARA# 0 0 7
+CC07 Reverb  
+#ARAP#
+#PARA# 0 0 8
+ 
+#ARAP#
+#PARA# 0 0 9
+ 
+#ARAP#
+#PARA# 0 0 10
+ 
+#ARAP#
+#PARA# 0 0 11
+ 
+#ARAP#
+#PARA# 0 0 12
+ 
+#ARAP#
+#PARA# 0 0 13
+ 
+#ARAP#
+#PARA# 0 0 14
+ 
+#ARAP#
+#PARA# 0 0 15
+ 
+#ARAP#
+#PARA# 0 0 16
+ 
+#ARAP#
+#PARA# 0 0 17
+ 
+#ARAP#
+#PARA# 0 0 18
+ 
+#ARAP#
+#PARA# 0 0 19
+ 
+#ARAP#
+#PARA# 0 0 20
+ 
+#ARAP#
+#PARA# 0 0 21
+ 
+#ARAP#
+#PARA# 0 0 22
+ 
+#ARAP#
+#PARA# 0 0 23
+ 
+#ARAP#
+#PARA# 0 0 24
+ 
+#ARAP#
+#PARA# 0 0 25
+ 
+#ARAP#
+#PARA# 0 0 26
+ 
+#ARAP#
+#PARA# 0 0 27
+ 
+#ARAP#
+#PARA# 0 0 28
+ 
+#ARAP#
+#PARA# 0 0 29
+ 
+#ARAP#
+#PARA# 0 0 30
+ 
+#ARAP#
+#PARA# 0 0 31
+ 
+#ARAP#
+#PARA# 0 0 32
+ 
+#ARAP#
+#PARA# 0 0 33
+ 
+#ARAP#
+#PARA# 0 0 34
+ 
+#ARAP#
+#PARA# 0 0 35
+ 
+#ARAP#
+#PARA# 0 0 36
+ 
+#ARAP#
+#PARA# 0 0 37
+ 
+#ARAP#
+#PARA# 0 0 38
+ 
+#ARAP#
+#PARA# 0 0 39
+ 
+#ARAP#
+#PARA# 0 0 40
+ 
+#ARAP#
+#PARA# 0 0 41
+ 
+#ARAP#
+#PARA# 0 0 42
+ 
+#ARAP#
+#PARA# 0 0 43
+ 
+#ARAP#
+#PARA# 0 0 44
+ 
+#ARAP#
+#PARA# 0 0 45
+ 
+#ARAP#
+#PARA# 0 0 46
+ 
+#ARAP#
+#PARA# 0 0 47
+ 
+#ARAP#
+#PARA# 0 0 48
+ 
+#ARAP#
+#PARA# 0 0 49
+ 
+#ARAP#
+#PARA# 0 0 50
+ 
+#ARAP#
+#PARA# 0 0 51
+ 
+#ARAP#
+#PARA# 0 0 52
+ 
+#ARAP#
+#PARA# 0 0 53
+ 
+#ARAP#
+#PARA# 0 0 54
+ 
+#ARAP#
+#PARA# 0 0 55
+ 
+#ARAP#
+#PARA# 0 0 56
+ 
+#ARAP#
+#PARA# 0 0 57
+ 
+#ARAP#
+#PARA# 0 0 58
+ 
+#ARAP#
+#PARA# 0 0 59
+ 
+#ARAP#
+#PARA# 0 0 60
+ 
+#ARAP#
+#PARA# 0 0 61
+ 
+#ARAP#
+#PARA# 0 0 62
+ 
+#ARAP#
+#PARA# 0 0 63
+ 
+#ARAP#
+#PARA# 0 0 64
+ 
+#ARAP#
+#PARA# 0 0 65
+ 
+#ARAP#
+#PARA# 0 0 66
+ 
+#ARAP#
+#PARA# 0 0 67
+ 
+#ARAP#
+#PARA# 0 0 68
+ 
+#ARAP#
+#PARA# 0 0 69
+ 
+#ARAP#
+#PARA# 0 0 70
+ 
+#ARAP#
+#PARA# 0 0 71
+ 
+#ARAP#
+#PARA# 0 0 72
+ 
+#ARAP#
+#PARA# 0 0 73
+ 
+#ARAP#
+#PARA# 0 0 74
+ 
+#ARAP#
+#PARA# 0 0 75
+ 
+#ARAP#
+#PARA# 0 0 76
+ 
+#ARAP#
+#PARA# 0 0 77
+ 
+#ARAP#
+#PARA# 0 0 78
+ 
+#ARAP#
+#PARA# 0 0 79
+ 
+#ARAP#
+#PARA# 0 0 80
+ 
+#ARAP#
+#PARA# 0 0 81
+ 
+#ARAP#
+#PARA# 0 0 82
+ 
+#ARAP#
+#PARA# 0 0 83
+ 
+#ARAP#
+#PARA# 0 0 84
+ 
+#ARAP#
+#PARA# 0 0 85
+ 
+#ARAP#
+#PARA# 0 0 86
+ 
+#ARAP#
+#PARA# 0 0 87
+ 
+#ARAP#
+#PARA# 0 0 88
+ 
+#ARAP#
+#PARA# 0 0 89
+ 
+#ARAP#
+#PARA# 0 0 90
+ 
+#ARAP#
+#PARA# 0 0 91
+ 
+#ARAP#
+#PARA# 0 0 92
+ 
+#ARAP#
+#PARA# 0 0 93
+ 
+#ARAP#
+#PARA# 0 0 94
+ 
+#ARAP#
+#PARA# 0 0 95
+ 
+#ARAP#
+#PARA# 0 0 96
+ 
+#ARAP#
+#PARA# 0 0 97
+ 
+#ARAP#
+#PARA# 0 0 98
+ 
+#ARAP#
+#PARA# 0 0 99
+ 
+#ARAP#
+#PARA# 0 0 100
+ 
+#ARAP#
+#PARA# 0 0 101
+ 
+#ARAP#
+#PARA# 0 0 102
+ 
+#ARAP#
+#PARA# 0 0 103
+ 
+#ARAP#
+#PARA# 0 0 104
+ 
+#ARAP#
+#PARA# 0 0 105
+ 
+#ARAP#
+#PARA# 0 0 106
+ 
+#ARAP#
+#PARA# 0 0 107
+ 
+#ARAP#
+#PARA# 0 0 108
+ 
+#ARAP#
+#PARA# 0 0 109
+ 
+#ARAP#
+#PARA# 0 0 110
+ 
+#ARAP#
+#PARA# 0 0 111
+ 
+#ARAP#
+#PARA# 0 0 112
+ 
+#ARAP#
+#PARA# 0 0 113
+ 
+#ARAP#
+#PARA# 0 0 114
+ 
+#ARAP#
+#PARA# 0 0 115
+ 
+#ARAP#
+#PARA# 0 0 116
+ 
+#ARAP#
+#PARA# 0 0 117
+ 
+#ARAP#
+#PARA# 0 0 118
+ 
+#ARAP#
+#PARA# 0 0 119
+ 
+#ARAP#
+#PARA# 0 0 120
+ 
+#ARAP#
+#PARA# 0 0 121
+ 
+#ARAP#
+#PARA# 0 0 122
+ 
+#ARAP#
+#PARA# 0 0 123
+ 
+#ARAP#
+#PARA# 0 0 124
+ 
+#ARAP#
+#PARA# 0 0 125
+ 
+#ARAP#
+#PARA# 0 0 126
+ 
+#ARAP#
+#PARA# 0 0 127
+ 
+#ARAP#
+#PARA# 0 0 128
+ 
+#ARAP#
+#PARA# 0 0 129
+ 
+#ARAP#
+#PARA# 0 0 130
+ 
+#ARAP#
+#PARA# 0 0 131
+ 
+#ARAP#
+#PARA# 0 0 132
+ 
+#ARAP#
+#PARA# 0 0 133
+ 
+#ARAP#
+#PARA# 0 0 134
+ 
+#ARAP#
+#PARA# 0 0 135
+ 
+#ARAP#
+#PARA# 0 0 136
+ 
+#ARAP#
+#PARA# 0 0 137
+ 
+#ARAP#
+#PARA# 0 0 138
+ 
+#ARAP#
+#PARA# 0 0 139
+ 
+#ARAP#
+#PARA# 0 0 140
+ 
+#ARAP#
+#PARA# 0 0 141
+ 
+#ARAP#
+#PARA# 0 0 142
+ 
+#ARAP#
+#PARA# 0 0 143
+ 
+#ARAP#
+#PARA# 0 0 144
+ 
+#ARAP#
+#PARA# 0 0 145
+ 
+#ARAP#
+#PARA# 0 0 146
+ 
+#ARAP#
+#PARA# 0 0 147
+ 
+#ARAP#
+#PARA# 0 0 148
+ 
+#ARAP#
+#PARA# 0 0 149
+ 
+#ARAP#
+#PARA# 0 0 150
+ 
+#ARAP#
+#PARA# 0 0 151
+ 
+#ARAP#
+#PARA# 0 0 152
+ 
+#ARAP#
+#PARA# 0 0 153
+ 
+#ARAP#
+#PARA# 0 0 154
+ 
+#ARAP#
+#PARA# 0 0 155
+ 
+#ARAP#
+#PARA# 0 0 156
+ 
+#ARAP#
+#PARA# 0 0 157
+ 
+#ARAP#
+#PARA# 0 0 158
+ 
+#ARAP#
+#PARA# 0 0 159
+ 
+#ARAP#
+#PARA# 0 0 160
+ 
+#ARAP#
+#PARA# 0 0 161
+ 
+#ARAP#
+#PARA# 0 0 162
+ 
+#ARAP#
+#PARA# 0 0 163
+ 
+#ARAP#
+#PARA# 0 0 164
+ 
+#ARAP#
+#PARA# 0 0 165
+ 
+#ARAP#
