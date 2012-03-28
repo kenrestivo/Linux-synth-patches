@@ -20,6 +20,4 @@ It's been years since I used these synths so my apologies for the thin instructi
 
 ## License
 
-Copyright (C) 2006-2010 ken restivo
-
-Distributed under the GPL, same license as the synths above.
+Copyright by the authors of AMS, of PHASEX, of WhySynth, and ken restivo. Many are modifications based on sample patches which shipped with the synths and as such are licensed the same as the synths, which is mostly the GPL.
